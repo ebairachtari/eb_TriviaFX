@@ -24,4 +24,5 @@
 Δείτε τη βιβλιοθήκη εδώ: [eb_TriviaAPI](https://github.com/ebairachtari/eb_TriviaAPI)
 
 ---
+---
 **Αναπτύχθηκε για εκπαιδευτικούς σκοπούς.**  
